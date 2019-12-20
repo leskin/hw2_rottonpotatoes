@@ -45,4 +45,5 @@ gem "sprockets", ">= 2.12.5"
 gem "mail", ">= 2.5.5"
 gem "rack", ">= 1.6.12"
 gem "rdoc", ">= 3.12.1"
+gem "json", ">= 1.6.8"
 
