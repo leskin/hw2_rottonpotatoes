@@ -43,4 +43,5 @@ gem "i18n", ">= 0.6.6"
 
 gem "sprockets", ">= 2.12.5"
 gem "mail", ">= 2.5.5"
+gem "rack", ">= 1.6.12"
 
