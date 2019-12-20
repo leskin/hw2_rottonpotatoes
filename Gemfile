@@ -32,4 +32,5 @@ gem 'jquery-rails'
 # gem 'capistrano'
 
 # To use debugger
-gem 'haml'
+gem "haml", ">= 5.0.0"
+
