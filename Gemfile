@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-bundle update
+bundle update --all
 # bundle update "rack-ssl"
 
 gem "rails", ">= 3.2.17"
