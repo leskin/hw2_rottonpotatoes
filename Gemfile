@@ -34,3 +34,4 @@ gem 'jquery-rails'
 # To use debugger
 gem "haml", ">= 5.0.0"
 
+gem "actionmailer", ">= 3.2.15"
