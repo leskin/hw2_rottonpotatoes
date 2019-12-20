@@ -48,4 +48,5 @@ gem "rdoc", ">= 3.12.1"
 gem "json", ">= 1.6.8"
 gem "activerecord", ">= 3.2.22.1"
 gem "activesupport", ">= 4.1.11"
+gem "actionpack", ">= 3.2.22.2"
 
