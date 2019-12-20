@@ -42,4 +42,5 @@ gem "actionmailer", ">= 3.2.15"
 gem "i18n", ">= 0.6.6"
 
 gem "sprockets", ">= 2.12.5"
+gem "mail", ">= 2.5.5"
 
