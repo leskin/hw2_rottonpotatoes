@@ -46,4 +46,5 @@ gem "mail", ">= 2.5.5"
 gem "rack", ">= 1.6.12"
 gem "rdoc", ">= 3.12.1"
 gem "json", ">= 1.6.8"
+gem "activerecord", ">= 3.2.22.1"
 
