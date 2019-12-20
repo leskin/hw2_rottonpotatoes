@@ -35,3 +35,4 @@ gem 'jquery-rails'
 gem "haml", ">= 5.0.0"
 
 gem "actionmailer", ">= 3.2.15"
+gem "i18n", ">= 0.6.6"
